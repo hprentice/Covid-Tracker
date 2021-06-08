@@ -1,0 +1,37 @@
+body{
+  background-color: #ccc;
+}
+
+form, .info, .footer{
+  display: grid;
+  justify-content: center;
+}
+
+.info{
+  text-align: center;
+  margin-top: 3em;
+}
+
+h2{
+  margin-bottom: 2em;
+}
+
+p{
+  margin-bottom: 2em;
+}
+
+form{
+  margin-top: 5em;
+}
+
+.dead{
+  color: #b30000;
+}
+
+.alive{
+  color: green;
+}
+
+.footer{
+  margin-top: 5em;
+}
